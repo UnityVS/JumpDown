@@ -1,11 +1,13 @@
 # JumpDown
 Game based on Unity plus Bolt
 
-скрипт игрока
-![This is an image](https://github.com/UnityVS/JumpDown/blob/main/AssetsGit/Images/игрок.jpg)
+![Видео, пример игры](https://github.com/UnityVS/JumpDown/blob/main/AssetsGit/Videos/jumpDown.mp4)
 
-скрипт генератора платформ
-![This is an image](https://github.com/UnityVS/JumpDown/blob/main/AssetsGit/Images/генерация%20платформ.jpg)
+Скрипт игрока
+![Скрипт игрока](https://github.com/UnityVS/JumpDown/blob/main/AssetsGit/Images/игрок.jpg)
 
-скрипт платформы
-![This is an image](https://github.com/UnityVS/JumpDown/blob/main/AssetsGit/Images/платформа.jpg)
+Скрипт генератора платформ
+![Скрипт генератора платформ](https://github.com/UnityVS/JumpDown/blob/main/AssetsGit/Images/генерация%20платформ.jpg)
+
+Скрипт платформы
+![Скрипт платформы](https://github.com/UnityVS/JumpDown/blob/main/AssetsGit/Images/платформа.jpg)
