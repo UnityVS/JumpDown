@@ -1,7 +1,7 @@
 # JumpDown
 Game based on Unity plus Bolt
 
-![Видео, пример игры](https://github.com/UnityVS/JumpDown/blob/main/AssetsGit/Videos/jumpDown.mp4)
+![Видео, пример игры](https://github.com/UnityVS/JumpDown/blob/main/AssetsGit/Videos/gifExampleOfGame.gif)
 
 Скрипт игрока
 ![Скрипт игрока](https://github.com/UnityVS/JumpDown/blob/main/AssetsGit/Images/игрок.jpg)
